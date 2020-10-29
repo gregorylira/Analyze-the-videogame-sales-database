@@ -1,8 +1,8 @@
 # Analyze The Videogame Sales Database
 
-Group: Gregory Filipe Lira da Silva
-       Jacques Ramondot Neto
-       Lincoln Wallace Valentim da Costa Silva
+Group: Gregory Filipe Lira da Silva;
+       Jacques Ramondot Neto;
+       Lincoln Wallace Valentim da Costa Silva.
       
       
 the video game sales database available in kaggle was used. (Database available in the archives)
