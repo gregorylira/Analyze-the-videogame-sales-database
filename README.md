@@ -7,7 +7,7 @@
       
 The video game sales database available in kaggle was used. (Database available in the archives)
 
-We calculated measures of centrality and dispersion, from the values ​​available in the datasets and created boxplots.
+We calculated the measures of centrality and dispersion, from the values ​​available in the datasets and created boxplots.
 
 for the second part of the project we made graphs for the data analysis.
 
